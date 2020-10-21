@@ -1,0 +1,15 @@
+{"1.2.0",
+[{<<"erlydtl">>,{pkg,<<"erlydtl">>,<<"0.13.1">>},0},
+ {<<"markdown">>,
+  {git,"https://github.com/erlware/erlmarkdown.git",
+       {ref,"8ef862ebf85380a8aedfdd66cdaa26db87a8bc3f"}},
+  0},
+ {<<"mochiweb">>,{pkg,<<"mochiweb">>,<<"2.20.1">>},0}]}.
+[
+{pkg_hash,[
+ {<<"erlydtl">>, <<"91481928557544C843E2B33F8AA17693F16B65EEBC9EF08C71EBE90CBD1A84F1">>},
+ {<<"mochiweb">>, <<"E4DBD0ED716F076366ECF62ADA5755A844E1D95C781E8C77DF1D4114BE868CDF">>}]},
+{pkg_hash_ext,[
+ {<<"erlydtl">>, <<"A366C4CD32E8B54D7D0825AA51EF6A12C35D6D558BEFFC276275AD335B1FDBED">>},
+ {<<"mochiweb">>, <<"D1AEEE7870470D2FA9EAE0B3D5AB6C33801AA2D82B10E9DADE885C5C921B36AA">>}]}
+].

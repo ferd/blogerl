@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>My Blog</title>
+    <link>file://../compiled/</link>
+    <description>My own blog about programming and whatnot.</description>
+    <language>en-us</language>
+    <pubDate>Sun, 10 Jul 2011 00:00:00 EST</pubDate>
+    <lastBuildDate>Sun, 10 Jul 2011 00:00:00 EST</lastBuildDate>
+    <ttl>60</ttl>
+
+    
+    <item>
+      <title>Markdown Test</title>
+      <link>file://../compiled/markdown-test.html</link>
+      <description>&lt;![CDATA[&lt;div&gt;&lt;span class=&quot;date&quot;&gt;2011 07 10&lt;/span&gt;&lt;h2&gt;Markdown Test&lt;/h2&gt;&lt;h3&gt;Section 1&lt;/h3&gt;&lt;p&gt;Aliquam erat erat, semper sit amet vehicula non, fringilla vitae diam. Vivamus iaculis dui et nibh placerat imperdiet. Proin leo massa, facilisis blandit eleifend at, consequat quis leo. &lt;em&gt;Mauris vitae erat nec arcu tristique consequat. Sed nulla orci, ultricies quis tempor vitae, semper id lectus.&lt;/em&gt; Curabitur vel venenatis diam. Sed congue ullamcorper rhoncus. Cras fringilla consectetur tincidunt. Quisque vulputate facilisis nibh, non pharetra urna malesuada eget. Fusce condimentum libero at erat semper quis tristique nunc hendrerit. Aliquam vulputate sollicitudin elit eu volutpat. Aliquam lorem arcu, ornare ac porttitor at, blandit sit amet mi. Phasellus cursus facilisis lectus, et consequat neque elementum nec. Suspendisse auctor mollis turpis, nec volutpat augue sagittis at. Vivamus vitae metus non tellus ultricies imperdiet et eu risus. Nunc non augue orci.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/li&gt;&lt;li&gt;Suspendisse eu nisi non metus tempus malesuada.&lt;/li&gt;&lt;li&gt;Suspendisse vitae justo eu nisi accumsan volutpat.&lt;/li&gt;&lt;li&gt;Nunc nec est nibh, at pellentesque neque.&lt;/li&gt;&lt;li&gt;Nunc eget enim vel magna ornare rutrum vitae id ipsum.&lt;/li&gt;&lt;li&gt;In ornare massa in ligula molestie bibendumr&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Aliquam lorem arcu&lt;/strong&gt;, ornare ac porttitor at, blandit sit amet mi. Phasellus cursus facilisis lectus, et consequat neque elementum nec. Suspendisse auctor mollis turpis, nec volutpat augue sagittis at. Vivamus vitae metus non tellus ultricies imperdiet et eu risus. Nunc non augue orci.&lt;/p&gt;&lt;p&gt;Aliquam mi tellus, condimentum id blandit nec, fringilla nec lectus. Nulla facilisi. &amp;lt;a&amp;gt;Praesent eget felis dolor&amp;lt;/a&amp;gt;. Pellentesque ultricies, &lt;a href=&quot;http://ferd.ca&quot;&gt;urna sed&lt;/a&gt; tempor dapibus, nulla lorem vestibulum justo, nec tincidunt turpis urna quis eros. Aliquam erat lectus, varius sed mollis quis, pretium sed est. Aliquam erat volutpat. Nulla porta congue neque, nec ornare lectus cursus id. Morbi eros est, fringilla id bibendum et, commodo ac nisl. Cras viverra dapibus molestie.&lt;/p&gt;&lt;h3&gt;Section 2 with rather longer titles to see how they do when compressed.&lt;/h3&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eleifend, lacus vitae molestie vehicula, augue lorem blandit lorem, euismod dictum ipsum ipsum porttitor justo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Proin mollis vulputate ante, eget molestie tellus eleifend eu. Suspendisse potenti. Nullam sapien dolor, rhoncus condimentum luctus non, tempus nec odio. Donec augue purus, fringilla vitae convallis et, pulvinar eu tellus. Nulla tristique fringilla hendrerit. Donec et orci ut orci aliquet consequat id at sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a condimentum felis.&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/li&gt;&lt;li&gt;Suspendisse eu nisi non metus tempus malesuada.&lt;/li&gt;&lt;li&gt;Suspendisse vitae justo eu nisi accumsan volutpat.&lt;/li&gt;&lt;li&gt;Nunc nec est nibh, at pellentesque neque.&lt;/li&gt;&lt;li&gt;Nunc eget enim vel magna ornare rutrum vitae id ipsum.&lt;/li&gt;&lt;li&gt;In ornare massa in ligula molestie bibendum.&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;Nulla facilisi. Aliquam sed dolor interdum leo interdum pharetra eget vitae augue. Vestibulum vitae justo eu sapien bibendum cursus ac ac lacus. Proin varius faucibus velit, non fringilla lorem tempor in. Nulla tempus ante sed leo ultrices rhoncus. Duis id tellus eget neque sagittis luctus suscipit sit amet diam. Aenean eget pretium magna. Sed elementum pharetra sodales. Maecenas at lectus dolor, sed volutpat arcu. In a sem ac lectus porttitor semper. Donec sollicitudin, est id lobortis lacinia, dui urna volutpat sapien, at sodales leo magna a velit.&lt;/p&gt;&lt;p&gt;1&amp;gt; cd(&quot;d:/code/blogerl&quot;).&lt;/p&gt;&lt;pre&gt;&lt;code&gt;d:/code/blogerl
+ok
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;2&amp;gt;  make:all([load]).&lt;/p&gt;&lt;pre&gt;&lt;code&gt;up&lt;em&gt;to&lt;/em&gt;date
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Some Explanatory text&lt;/p&gt;&lt;pre&gt;&lt;code&gt;-module(blog).
+-export([main/1, run/1]).
+&lt;/code&gt;&lt;/pre&gt;&lt;pre&gt;&lt;code&gt;run(BlogDir) -&amp;amp;gt;
+    main(BlogDir),
+    io:format(&quot;ok~n&quot;),
+    halt(0).
+&lt;/code&gt;&lt;/pre&gt;&lt;pre&gt;&lt;code&gt;main(BlogDir) -&amp;amp;gt;
+    {Src, Out, Index, Vars} = load&lt;em&gt;conf(BlogDir),
+    Pages = [{D, T, sluggify(T), Txt} || {D, T, Txt} &amp;amp;lt;- compile&lt;/em&gt;files(Index, Vars)],
+    recursive&lt;em&gt;copy(Src, Out),
+    save&lt;/em&gt;pages(Out, Pages),
+    create_index(Src, Out, Pages, Vars),
+    ok.
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Followed by a quick conclusion&lt;/p&gt;&lt;h3&gt;More tags to test&lt;/h3&gt;&lt;p&gt;And some text followed by a blockquote:&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;It&#039;s the only job I can think of where I get to be both an engineer and an artist.  There&#039;s an incredible, rigorous, technical element to it, which I like because you have to do very precise thinking.  On the other hand, it has a wildly creative side where the boundaries of imagination are the only real limitation
+&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;And tell mom I said hi.&lt;/p&gt;&lt;dl&gt;&lt;dt&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/dt&gt;&lt;dd&gt;Sed sit amet risus ut sem elementum ultricies nec in quam.&lt;/dd&gt;&lt;dt&gt;Praesent non quam vel enim porttitor porta sit amet a nisl.&lt;/dt&gt;&lt;dd&gt;Fusce vitae turpis id lectus tincidunt sodales.&lt;/dd&gt;&lt;dd&gt;Donec condimentum sem ante, ut porta eros.&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;In purus elit, tincidunt non tincidunt luctus, bibendum id augue. Donec eget blandit metus. Pellentesque turpis massa, consectetur eget sodales ut, vehicula at est. Donec interdum scelerisque lobortis. Nulla et est turpis. In ornare, lorem ut venenatis rhoncus, enim magna rhoncus lectus, eget dictum turpis tortor eu nisi. Cras accumsan &lt;code&gt;fun() -&amp;amp;gt; X + 3 end&lt;/code&gt; gravida mauris, a porta neque porttitor vel. Nunc aliquet egestas venenatis. Maecenas vel orci non purus sodales congue sit amet id orci. Sed vel aliquam elit. Mauris iaculis metus velit. Morbi eu felis et dolor consectetur facilisis.&lt;/p&gt;&lt;pre&gt;&lt;code&gt;And
+   let&#039;s               !
+                   not
+   forget      default
+        the 
+                    pre
+&lt;/code&gt;&lt;/pre&gt;&lt;pre&gt;&lt;code&gt;            value
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Nam adipiscing semper &amp;lt;em&amp;gt;erat&amp;lt;/em&amp;gt;, quis faucibus tortor consectetur et. Donec sit amet metus dui, eu varius justo. Morbi vel nulla sollicitudin ante ullamcorper mattis. Aenean ut libero diam, tempor condimentum sem. Integer sit amet leo id arcu facilisis sollicitudin. Cras est lorem, feugiat eget sagittis quis, placerat vel massa. Morbi ac elit tellus. In in lectus libero. Duis tincidunt semper mauris nec pretium. Pellentesque sed dui quis lectus faucibus sollicitudin non non est.&lt;/p&gt;&lt;/div&gt;]]&gt;</description>
+      <pubDate>Sun, 10 Jul 2011 00:00:00 EST</pubDate>
+      <guid>file://../compiled/markdown-test.html</guid>
+    </item>
+    
+    <item>
+      <title>Second Article</title>
+      <link>file://../compiled/second-article.html</link>
+      <description>&lt;![CDATA[&lt;div&gt;&lt;span class=&quot;date&quot;&gt;2010 07 14&lt;/span&gt;&lt;h2&gt;Second Article&lt;/h2&gt;&lt;h3&gt;Section 1&lt;/h3&gt;&lt;p&gt;Aliquam erat erat, semper sit amet vehicula non, fringilla vitae diam. Vivamus iaculis dui et nibh placerat imperdiet. Proin leo massa, facilisis blandit eleifend at, consequat quis leo. &lt;em&gt;Mauris vitae erat nec arcu tristique consequat. Sed nulla orci, ultricies quis tempor vitae, semper id lectus.&lt;/em&gt; Curabitur vel venenatis diam. Sed congue ullamcorper rhoncus. Cras fringilla consectetur tincidunt. Quisque vulputate facilisis nibh, non pharetra urna malesuada eget. Fusce condimentum libero at erat semper quis tristique nunc hendrerit. Aliquam vulputate sollicitudin elit eu volutpat. Aliquam lorem arcu, ornare ac porttitor at, blandit sit amet mi. Phasellus cursus facilisis lectus, et consequat neque elementum nec. Suspendisse auctor mollis turpis, nec volutpat augue sagittis at. Vivamus vitae metus non tellus ultricies imperdiet et eu risus. Nunc non augue orci.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/li&gt;&lt;li&gt;Suspendisse eu nisi non metus tempus malesuada.&lt;/li&gt;&lt;li&gt;Suspendisse vitae justo eu nisi accumsan volutpat.&lt;/li&gt;&lt;li&gt;Nunc nec est nibh, at pellentesque neque.&lt;/li&gt;&lt;li&gt;Nunc eget enim vel magna ornare rutrum vitae id ipsum.&lt;/li&gt;&lt;li&gt;In ornare massa in ligula molestie bibendum.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Aliquam lorem arcu&lt;/strong&gt;, ornare ac porttitor at, blandit sit amet mi. Phasellus cursus facilisis lectus, et consequat neque elementum nec. Suspendisse auctor mollis turpis, nec volutpat augue sagittis at. Vivamus vitae metus non tellus ultricies imperdiet et eu risus. Nunc non augue orci.&lt;/p&gt;&lt;p&gt;Aliquam mi tellus, condimentum id blandit nec, fringilla nec lectus. Nulla facilisi. &lt;a href=&quot;&quot;&gt;Praesent eget felis dolor&lt;/a&gt;. Pellentesque ultricies, urna sed tempor dapibus, nulla lorem vestibulum justo, nec tincidunt turpis urna quis eros. Aliquam erat lectus, varius sed mollis quis, pretium sed est. Aliquam erat volutpat. Nulla porta congue neque, nec ornare lectus cursus id. Morbi eros est, fringilla id bibendum et, commodo ac nisl. Cras viverra dapibus molestie.&lt;/p&gt;&lt;h3&gt;Section 2 with rather longer titles to see how they do when compressed.&lt;/h3&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eleifend, lacus vitae molestie vehicula, augue lorem blandit lorem, euismod dictum ipsum ipsum porttitor justo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Proin mollis vulputate ante, eget molestie tellus eleifend eu. Suspendisse potenti. Nullam sapien dolor, rhoncus condimentum luctus non, tempus nec odio. Donec augue purus, fringilla vitae convallis et, pulvinar eu tellus. Nulla tristique fringilla hendrerit. Donec et orci ut orci aliquet consequat id at sapien. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a condimentum felis.&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/li&gt;&lt;li&gt;Suspendisse eu nisi non metus tempus malesuada.&lt;/li&gt;&lt;li&gt;Suspendisse vitae justo eu nisi accumsan volutpat.&lt;/li&gt;&lt;li&gt;Nunc nec est nibh, at pellentesque neque.&lt;/li&gt;&lt;li&gt;Nunc eget enim vel magna ornare rutrum vitae id ipsum.&lt;/li&gt;&lt;li&gt;In ornare massa in ligula molestie bibendum.&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;Nulla facilisi. Aliquam sed dolor interdum leo interdum pharetra eget vitae augue. Vestibulum vitae justo eu sapien bibendum cursus ac ac lacus. Proin varius faucibus velit, non fringilla lorem tempor in. Nulla tempus ante sed leo ultrices rhoncus. Duis id tellus eget neque sagittis luctus suscipit sit amet diam. Aenean eget pretium magna. Sed elementum pharetra sodales. Maecenas at lectus dolor, sed volutpat arcu. In a sem ac lectus porttitor semper. Donec sollicitudin, est id lobortis lacinia, dui urna volutpat sapien, at sodales leo magna a velit.&lt;/p&gt;&lt;pre class=&quot;brush:eshell&quot;&gt;
+1&amp;gt; cd(&quot;d:/code/blogerl&quot;).
+d:/code/blogerl
+ok
+2&amp;gt; make:all([load]).
+up_to_date
+&lt;/pre&gt;&lt;p&gt;Some Explanatory text&lt;/p&gt;&lt;pre class=&quot;brush:erl&quot;&gt;
+-module(blog).
+-export([main/1, run/1]).
+
+run(BlogDir) -&amp;gt;
+    main(BlogDir),
+    io:format(&quot;ok~n&quot;),
+    halt(0).
+
+main(BlogDir) -&amp;gt;
+    {Src, Out, Index, Vars} = load_conf(BlogDir),
+    Pages = [{D, T, sluggify(T), Txt} || {D, T, Txt} &amp;lt;- compile_files(Index, Vars)],
+    recursive_copy(Src, Out),
+    save_pages(Out, Pages),
+    create_index(Src, Out, Pages, Vars),
+    ok.
+&lt;/pre&gt;&lt;p&gt;Followed by a quick conclusion&lt;/p&gt;&lt;h3&gt;More tags to test&lt;/h3&gt;&lt;p&gt;And some text followed by a blockquote: &lt;/p&gt;&lt;blockquote title=&quot;Andy Hertzfeld, about programming&quot;&gt;
+    It&#039;s the only job I can think of where I get to be both an engineer and an artist.  There&#039;s an incredible, rigorous, technical element to it, which I like because you have to do very precise thinking.  On the other hand, it has a wildly creative side where the boundaries of imagination are the only real limitation
+&lt;/blockquote&gt;&lt;p&gt;And tell mom I said hi.&lt;/p&gt;&lt;dl&gt;&lt;dt&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/dt&gt;&lt;dd&gt;Sed sit amet risus ut sem elementum ultricies nec in quam.&lt;/dd&gt;&lt;dt&gt;Praesent non quam vel enim porttitor porta sit amet a nisl.&lt;/dt&gt;&lt;dd&gt;Fusce vitae turpis id lectus tincidunt sodales.&lt;/dd&gt;&lt;dd&gt;Donec condimentum sem ante, ut porta eros.&lt;/dd&gt;&lt;/dl&gt;&lt;p&gt;In purus elit, tincidunt non tincidunt luctus, bibendum id augue. Donec eget blandit metus. Pellentesque turpis massa, consectetur eget sodales ut, vehicula at est. Donec interdum scelerisque lobortis. Nulla et est turpis. In ornare, lorem ut venenatis rhoncus, enim magna rhoncus lectus, eget dictum turpis tortor eu nisi. Cras accumsan &lt;code&gt;fun() -&amp;gt; X + 3 end&lt;/code&gt; gravida mauris, a porta neque porttitor vel. Nunc aliquet egestas venenatis. Maecenas vel orci non purus sodales congue sit amet id orci. Sed vel aliquam elit. Mauris iaculis metus velit. Morbi eu felis et dolor consectetur facilisis.&lt;/p&gt;&lt;pre&gt;And
+   let&#039;s               !
+                   not
+   forget      default
+        the 
+                    pre
+            
+            value
+&lt;/pre&gt;&lt;p&gt;Nam adipiscing semper erat, quis faucibus tortor consectetur et. Donec sit amet metus dui, eu varius justo. Morbi vel nulla sollicitudin ante ullamcorper mattis. Aenean ut libero diam, tempor condimentum sem. Integer sit amet leo id arcu facilisis sollicitudin. Cras est lorem, feugiat eget sagittis quis, placerat vel massa. Morbi ac elit tellus. In in lectus libero. Duis tincidunt semper mauris nec pretium. Pellentesque sed dui quis lectus faucibus sollicitudin non non est.&lt;/p&gt;&lt;/div&gt;]]&gt;</description>
+      <pubDate>Wed, 14 Jul 2010 00:00:00 EST</pubDate>
+      <guid>file://../compiled/second-article.html</guid>
+    </item>
+    
+    <item>
+      <title>Hello, World</title>
+      <link>file://../compiled/hello-world.html</link>
+      <description>&lt;![CDATA[&lt;div&gt;&lt;span class=&quot;date&quot;&gt;2010 07 13&lt;/span&gt;&lt;h2&gt;Hello, World&lt;/h2&gt;&lt;p&gt;I like cats. I like food. &lt;br /&gt;
+   I don&#039;t especially like catfood though.&lt;/p&gt;&lt;p&gt;No support for IE;&lt;br /&gt;
+   Opera, Firefox, Chrome or Safari&lt;br /&gt;
+   Should be enough to make you happy.&lt;/p&gt;&lt;/div&gt;]]&gt;</description>
+      <pubDate>Tue, 13 Jul 2010 00:00:00 EDT</pubDate>
+      <guid>file://../compiled/hello-world.html</guid>
+    </item>
+    
+ 
+  </channel>
+</rss>
+

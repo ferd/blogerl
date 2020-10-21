@@ -1,0 +1,27 @@
+_checkouts
+.rebar3
+rebar3
+rebar3.cmd
+rebar3.ps1
+_build
+.depsolver_plt
+*.beam
+test/*_data
+logs
+/rebar
+*~
+*.orig
+.*.swp
+/rt.work
+/dialyzer_warnings
+/rebar.cmd
+/.eunit
+/deps
+/.rebar
+priv/templates/*.dtl.erl
+ebin
+.edts
+env
+
+# hex_core artifact 
+src/r3_safe_erl_term.erl
